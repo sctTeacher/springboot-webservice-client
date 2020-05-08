@@ -1,0 +1,8 @@
+#spring:
+#  application:
+#    name: webserviceDemo
+#server:
+#  port: 8080
+
+#cxf:
+#  path: /service
